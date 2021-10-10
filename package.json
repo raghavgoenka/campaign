@@ -9,9 +9,8 @@
   "scripts": {
     "test": "mocha",
     "dev": "node index.js",
-    "build": "next build",
-    "start": "next start -p $PORT",
-    "heroku-postbuild": "npm run build"
+    "build": "next build"
+  
   },
   "author": "",
   "license": "ISC",
