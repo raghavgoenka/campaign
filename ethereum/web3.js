@@ -18,7 +18,7 @@ else{
     web3 = new Web3(provider);
     const accounts=web3.eth.getAccounts();
     console.log(accounts);
-  
+ 
     console.log("Injected web3 not detected. Using http provider.");
    
 }
