@@ -8,9 +8,9 @@
   },
   "scripts": {
     "test": "mocha",
-    "dev": "node index.js",
-    "build": "next build"
-  
+    "build": "node index.js"
+    
+
   },
   "author": "",
   "license": "ISC",
